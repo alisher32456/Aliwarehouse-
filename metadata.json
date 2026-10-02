@@ -1,0 +1,6 @@
+{
+  "name": "Rozgar - Social Commerce & Reseller Platform",
+  "description": "Mobile-first Pakistani reseller e-commerce marketplace empowering entrepreneurs to source at wholesale, share products, earn custom profits, and manage wallet payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
